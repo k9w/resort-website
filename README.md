@@ -12,14 +12,14 @@
 ## Description
 
 _Welcome to the first HTML with CSS website built solely by Kevin
-Williams as a student at (https://epicodus.com)[Epicodus]!
+Williams as a student at [Epicodus](https://epicodus.com)!
   
-(https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/practice-branching-and-merging)[Here
-is the lesson] from (https://learnhowtoprogram.com)[the
-curriculum] where I made this page on Tuesday January 4th 2022
-after class hours. The README, LICENSE, and Github Pages deployment
-were added later that week. I hope you enjoy it and that you'll
-checkout more of my work at:
+[Here is the
+lesson](https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/practice-branching-and-merging)
+from [the curriculum](https://learnhowtoprogram.com) where I made this
+page on Tuesday January 4th 2022 after class hours. The README,
+LICENSE, and Github Pages deployment were added later that week. I
+hope you enjoy it and that you'll checkout more of my work at:
 
  * https://github.com/k9w
 
